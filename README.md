@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any Software & Discord Integration**
 
-- 💬 Ask me about **HTML, CSS, MongoDB, TypeScript, JavaScript**
+- 💬 Ask me about **HTML, CSS, MongoDB, NodeJS, JavaScript**
 
 - 👨‍💻 All of my projects are available at [berusdev.com](berusdev.com)
 
